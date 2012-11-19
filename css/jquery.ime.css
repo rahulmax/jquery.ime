@@ -12,6 +12,7 @@
 	font-family: 'sans';
 	white-space: nowrap;
 	z-index: 9999;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .imeselector a {
@@ -59,10 +60,10 @@ span.ime-disable-shortcut {
 
 .ime-list-title,
 .ime-lang-title {
-	color: #39d;
-	border-bottom: solid 1px #39d;
+	color: #236998;
+	border-bottom: solid 1px #236998;
 	text-align: left;
-	font-size: larger;
+	font-size: 95%;
 	font-weight: normal;
 	padding-bottom: 5px;
 	padding-left: 20px;
